@@ -13,7 +13,7 @@ https://github.com/aradtamako/PalworldDiscord/releases
 - Linuxのパルワールドサーバでは動作しない
 - 2024/01/25 時点の最新クライアントで動作確認
 
-# 使い方1
+# 使い方
 1. 以下4つのファイルを以下ディレクトリにコピーする
 - cpprest_2_10.dll
 - minhook.x64.dll
