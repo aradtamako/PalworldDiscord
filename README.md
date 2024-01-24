@@ -3,7 +3,8 @@
 - Discordのメッセージをパルワールド内に送信する
 
 # 参考動画
-https://streamable.com/nfgbe8
+https://github.com/aradtamako/PalworldDiscord/assets/40272766/f2980863-9aec-440b-acee-935a4005f356
+
 
 # ダウンロード
 https://github.com/aradtamako/PalworldDiscord/releases
