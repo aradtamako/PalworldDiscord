@@ -1,5 +1,12 @@
+# 参考動画
+https://streamable.com/nfgbe8
+
+# ダウンロード
+https://github.com/aradtamako/PalworldDiscord/releases
+
 # 前提条件
 - Windowsのパルワールドサーバのみで動作
+
 - Linuxのパルワールドサーバでは動作しない
 - 2024/01/25 時点の最新クライアントで動作確認
 
