@@ -1,3 +1,7 @@
+# 機能
+- パルワールド内のメッセージをDiscordに送信する
+- Discordのメッセージをパルワールド内に送信する
+
 # 参考動画
 https://streamable.com/nfgbe8
 
@@ -28,5 +32,5 @@ steamapps\common\PalServer\Pal\Binaries\Win64\
 
 # その他
 - main.py はDiscordで入力したメッセージをパルワールド内に送信したい場合に必要
-- パルワールドのメッセージをDiscordに送信するだけであれば不要
+- パルワールド内のメッセージをDiscordに送信するだけであれば不要
 - 簡単なので説明は省略
