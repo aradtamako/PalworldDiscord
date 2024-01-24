@@ -6,7 +6,6 @@ https://github.com/aradtamako/PalworldDiscord/releases
 
 # 前提条件
 - Windowsのパルワールドサーバのみで動作
-
 - Linuxのパルワールドサーバでは動作しない
 - 2024/01/25 時点の最新クライアントで動作確認
 
@@ -21,10 +20,11 @@ https://github.com/aradtamako/PalworldDiscord/releases
 steamapps\common\PalServer\Pal\Binaries\Win64\
 ```
 
-2. PalServer.exe を起動する
+2. DiscordPluginConfig.json を編集する
+
+3. PalServer.exe を起動する
 
 以上
-
 
 # その他
 - main.py はDiscordで入力したメッセージをパルワールド内に送信したい場合に必要
