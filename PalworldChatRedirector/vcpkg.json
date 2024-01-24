@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "palworldchatredirector",
+  "version": "1.0.0",
+  "dependencies": [
+    "minhook",
+    "nlohmann-json",
+    "cpprestsdk",
+    "mongoose"
+  ]
+}
